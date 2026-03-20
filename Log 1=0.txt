@@ -1,0 +1,26 @@
+11:23 PM 20-Mar-26
+we were too bored...
+brains sloppy
+not functioning properly...
+too much of lag
+then we proceed to do all sorts of things to reach flow state.
+THEN, THERE IT WAS. THE STROKE OF GENIUS.
+GOWTHAM GAVE THE PROBLEM STATEMENT.
+
+His idea:-
+"Companies use tons and tons of freshwater to cool their bigbig AI datacentres (ts a big problem in the US). The
+freshwater taken as input from city and used to cool systems, some water is discharged after treatment, some is
+reused back and some is lost to evaporation. We could come up with like cooling methods that have lesser water loss?
+
+very rough idea"
+
+
+"instead of the data centres using high amts of water 24x7 all the time, we can employ an AI-controlled monitoring
+system which monitors the temps, cpu usage spikes etc of the computers and accordingly switches between water
+cooling and air cooling. we can also adjust the pump rate, fan spin rate etc thru the AI thing
+
+and for the true innovation part our job is to come up with some method of efficient heat transfer using water.
+find some material or smth cuz now, water is used to spray heatsinks, so water is being used to cool it directly."
+
+
+THIS THE BEGINNING OF A NEW CHAPTER.
